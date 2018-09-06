@@ -1,4 +1,6 @@
 # IdValidator.php
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjxlwqq%2Fid-validator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjxlwqq%2Fid-validator?ref=badge_shield)
+
 
 中国大陆个人身份证号码验证工具（PHP Composer 版）支持 15 位与 18 位身份证号。基于 [JavaScript 版本](https://github.com/mc-zone/IDValidator)。
 
@@ -53,3 +55,6 @@ GB 2260-1995 中华人民共和国行政区划代码
 MIT
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjxlwqq%2Fid-validator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjxlwqq%2Fid-validator?ref=badge_large)
